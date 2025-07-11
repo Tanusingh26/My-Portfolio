@@ -6,7 +6,7 @@ This is my personal portfolio website built using React, HTML, CSS, and JavaScri
 - Built with modern frontend technologies (React, JS, CSS)
 - Simple, clean UI
 - Fully responsive across devices
-- Organized code structure for easy updates
+- Organized code structure for easy updates about me
 
 🔜 Future plans:
 - Deploy on Netlify or GitHub Pages
