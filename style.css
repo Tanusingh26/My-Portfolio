@@ -108,6 +108,7 @@ span {
     box-shadow: 0 0 1rem rgba(0,0,0,0.3); 
     animation: floatImage 4s ease-in-out infinite;
     object-fit: cover; 
+    margin-left: 20px;
 }
 
 @keyframes floatImage {
@@ -175,8 +176,8 @@ span {
 }
 
 .About-img img {
-    width: 300px; 
-    height: auto; 
+    width: 400px; 
+    height: 300px; 
     border: 4px solid var(--main-colour); 
     border-radius: 1rem; 
     object-fit: cover; 
@@ -476,10 +477,6 @@ textarea {
 
 
 
-
-
-
-
 @media (max-width: 768px) {
 
   /* Navbar */
@@ -612,5 +609,4 @@ textarea {
     width: 40vw;
   }
 }
-
 
